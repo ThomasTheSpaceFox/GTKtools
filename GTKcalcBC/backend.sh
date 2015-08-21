@@ -23,14 +23,14 @@ export DIALOG='
       <input file>/root/GTKtools/GTKcalcBC/INPUT.MATH.txt</input>
     </entry>
     <text>
-      <label>the awnser is:</label>
+      <label>the answer is:</label>
     </text>
     <entry>
       <variable>NUM1</variable>
       <input file>/root/GTKtools/GTKcalcBC/OUTPUT.MATH.txt</input>
     </entry>
     <button>
-      <label>view awnser</label>
+      <label>view answer</label>
       <action>"$VIEWER /root/GTKtools/GTKcalcBC/OUTPUT.MATH.txt"</action>
     </button>
     <button>
