@@ -1,0 +1,13 @@
+
+
+USAGE= bashtest1.sh [-h] [number/function]
+
+
+
+number = enter a number and if it equals 5. script will return "true" else it will return "false"
+
+funtion = enter a funtion (ex: 10-7+2) and if it equals 5. script will return "true" else it will return "false"
+  
+  -h displays this help information
+
+no input will result in an error.

@@ -1,0 +1,202 @@
+GTKmidiplay 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/5432gone_redfarn.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/5432gone_redfarn.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/5432gone_redfarn.mid
+Format: 1  Tracks: 6  Divisions: 256
+Sequence: 5432Gone
+Text: Jim Redfarn
+Copyright: Jim Redfarn
+Track name: Alto
+Track name: Honky-tonk Piano
+Track name: Piano
+Track name: Bass Guitar
+Track name: Drum Kit
+'Bye ---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/be_sharp_bw_redfarn.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/be_sharp_bw_redfarn.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/be_sharp_bw_redfarn.mid
+Format: 1  Tracks: 5  Divisions: 256
+Sequence: Be Sharp Boogie
+Text: Jim Redfarn
+Copyright: Copyright (C) Jim Redfarn
+Track name: Electric Guitar
+Track name: Electric Bass
+Track name: Honky-tonk Piano
+Track name: Drum Kit
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/big_man_boogie_redfarn.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/big_man_boogie_redfarn.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/big_man_boogie_redfarn.mid
+Format: 1  Tracks: 4  Divisions: 256
+Sequence: Big Man Boogie
+Text: Jim Redfarn/Steve Clayton
+Track name: Honky-tonk Piano
+Track name: Bass Guitar
+Track name: Drum Kit
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/boogi_marabi_redfarn.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/boogi_marabi_redfarn.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/boogi_marabi_redfarn.mid
+Format: 1  Tracks: 5  Divisions: 256
+Sequence: Boogi Marabi
+Text: Jim Redfarn
+Copyright: Copyright (C) Jim Redfarn June 2000
+Track name: Flute
+Track name: Honky-tonk Piano
+Track name: Piano
+Track name: Drum Kit
+Playing time: ~105 seconds
+Notes cut: 0
+Notes lost totally: 0
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/busy_schedule.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/busy_schedule.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/busy_schedule.mid
+Format: 1  Tracks: 17  Divisions: 96
+Track name: MIDI Ch. 1
+Track name: MIDI Ch. 2
+Track name: MIDI Ch. 3
+Track name: MIDI Ch. 4
+Track name: MIDI Ch. 5
+Track name: MIDI Ch. 6
+Track name: MIDI Ch. 7
+Track name: MIDI Ch. 8
+Track name: MIDI Ch. 9
+Track name: MIDI Drums
+Track name: MIDI Ch. 11
+Track name: MIDI Ch. 12
+Track name: MIDI Ch. 13
+Track name: MIDI Ch. 14
+Track name: MIDI Ch. 15
+Track name: MIDI Ch. 16
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/careless_perc_redfarn.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/careless_perc_redfarn.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/careless_perc_redfarn.mid
+Format: 1  Tracks: 4  Divisions: 256
+Sequence: Careless Love
+Text: traditional
+Copyright: Copyright (C) 
+Track name: Piano
+Track name: Honky-tonk Piano
+Track name: Percussion
+Playing time: ~161 seconds
+Notes cut: 0
+Notes lost totally: 0
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/chemistry_lab.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/chemistry_lab.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/chemistry_lab.mid
+Format: 1  Tracks: 7  Divisions: 480
+Sequence: Track 1
+Track name: Track 1
+Track name: Track 3
+Track name: Track 4
+Track name: Track 5
+Track name: Track 6
+Track name: Track 7
+Playing time: ~134 seconds
+Notes cut: 0
+Notes lost totally: 0
+---------------------------------------------------- 
+ 
+ 
+
+----------------------------------------------------
+ below is the debug info for timidity 
+ for when it played /root/.openttd/content_download/gm/openmsx-0.3.1/chuggachugga.mid 
+ options sent to timidity were as follows 
+ --volume-compensation 
+ this is the GTKmidiplay MIDI player debug file 
+----------------------------------------------------
+Requested buffer size 32768, fragment size 8192
+ALSA pcm 'default' set buffer size 34560, period size 3840 bytes
+Playing /root/.openttd/content_download/gm/openmsx-0.3.1/chuggachugga.mid
+MIDI file: /root/.openttd/content_download/gm/openmsx-0.3.1/chuggachugga.mid
+Format: 1  Tracks: 7  Divisions: 192
+Text: By <Name>
+Copyright: Copyright © 2010 <Name>
+Copyright: All Rights Reserved
+Text: Generated by NoteWorthy Composer
+Track name: Staff
+Track name: Staff-1
+Track name: Staff-2
+Track name: Staff-3
+Track name: Staff-4
+Track name: Staff-5
+Drum set 16 is undefined
